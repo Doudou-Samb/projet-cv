@@ -1,0 +1,22 @@
+body {
+    background-image: url('../img/back2.jpg');
+  }
+  
+  #cv-template {
+    display: none;
+  }
+  .myimg {
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  
+  .background {
+    background-color: #25758f;
+  }
+  
+  title
+  {
+    background-color:honeydew;
+  } 
